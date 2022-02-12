@@ -1,0 +1,7 @@
+C:\Users\avexy\GitHub\c-sharp\cf-programacion-funcional\lambdas\lambda1\lambda1\bin\Debug\lambda1.exe.config
+C:\Users\avexy\GitHub\c-sharp\cf-programacion-funcional\lambdas\lambda1\lambda1\bin\Debug\lambda1.exe
+C:\Users\avexy\GitHub\c-sharp\cf-programacion-funcional\lambdas\lambda1\lambda1\bin\Debug\lambda1.pdb
+C:\Users\avexy\GitHub\c-sharp\cf-programacion-funcional\lambdas\lambda1\lambda1\obj\Debug\lambda1.csprojAssemblyReference.cache
+C:\Users\avexy\GitHub\c-sharp\cf-programacion-funcional\lambdas\lambda1\lambda1\obj\Debug\lambda1.csproj.CoreCompileInputs.cache
+C:\Users\avexy\GitHub\c-sharp\cf-programacion-funcional\lambdas\lambda1\lambda1\obj\Debug\lambda1.exe
+C:\Users\avexy\GitHub\c-sharp\cf-programacion-funcional\lambdas\lambda1\lambda1\obj\Debug\lambda1.pdb

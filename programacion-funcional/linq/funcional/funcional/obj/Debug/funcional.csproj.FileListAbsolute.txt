@@ -1,0 +1,7 @@
+C:\Users\avexy\GitHub\c-sharp\cf-programacion-funcional\linq\funcional\funcional\bin\Debug\funcional.exe.config
+C:\Users\avexy\GitHub\c-sharp\cf-programacion-funcional\linq\funcional\funcional\bin\Debug\funcional.exe
+C:\Users\avexy\GitHub\c-sharp\cf-programacion-funcional\linq\funcional\funcional\bin\Debug\funcional.pdb
+C:\Users\avexy\GitHub\c-sharp\cf-programacion-funcional\linq\funcional\funcional\obj\Debug\funcional.csprojAssemblyReference.cache
+C:\Users\avexy\GitHub\c-sharp\cf-programacion-funcional\linq\funcional\funcional\obj\Debug\funcional.csproj.CoreCompileInputs.cache
+C:\Users\avexy\GitHub\c-sharp\cf-programacion-funcional\linq\funcional\funcional\obj\Debug\funcional.exe
+C:\Users\avexy\GitHub\c-sharp\cf-programacion-funcional\linq\funcional\funcional\obj\Debug\funcional.pdb
